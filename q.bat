@@ -1,0 +1,1 @@
+C:\temp\QualysCloudAgent.exe CustomerId={ba35352f-253d-ec61-8011-f0f6cabfa49e} ActivationId={3680db5f-73a0-4ea2-86b9-5f5bae6c16b7}
